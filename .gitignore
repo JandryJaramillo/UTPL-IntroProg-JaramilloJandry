@@ -21,3 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/Programas_en_clase/SaludoRepetido1/nbproject/private/
+/Programas_en_clase/SaludoRepetido1/build/
+/Programas_en_clase/ListaImpares1/nbproject/private/
+/Programas_en_clase/ListaImpares2/nbproject/private/
+/Programas_en_clase/ListaImpares1/build/
+/Programas_en_clase/ListaImpares2/build/
+/Programas_en_clase/PromedioPares1/nbproject/private/
+/Programas_en_clase/PromedioPares1/build/
