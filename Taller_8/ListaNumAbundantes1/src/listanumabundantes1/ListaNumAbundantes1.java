@@ -13,7 +13,7 @@ public class ListaNumAbundantes1 {
         a = 12;
         suma = 0;
                 
-        for (c = 12 ;c < n; c = c + 1){
+        for (c = 0 ;c < n; c = c + 1){
             for (i = 1 ; i < c ; i++){
                 if (c % i == 0){
                     suma = suma + i;

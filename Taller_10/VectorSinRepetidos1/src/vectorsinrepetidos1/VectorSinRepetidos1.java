@@ -6,7 +6,7 @@ public class VectorSinRepetidos1 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-         byte n, c;
+        byte n, c;
         int a;
         
         int elemen[];
